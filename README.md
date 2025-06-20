@@ -14,7 +14,8 @@ This project aims to predict employee performance ratings for INX Future Inc. us
   - LabelEncoder (for categorical data)  
   - Power BI (for dashboard visualizations)  
   - Streamlit (for interactive model deployment)  
-  - Google Colab (for development and experimentation)  
+  - Google Colab (for development and experimentation)
+  - VS Code (for Python script development)
 
 ---
 
@@ -57,7 +58,8 @@ This project aims to predict employee performance ratings for INX Future Inc. us
 ## Files Included
 
 - Full analysis and model pipeline (.ipynb file)
-- Python script version (.py file)  
+- Python script version (.py file)
+- Pictorial visualization to be shown in Streamlit app (.jpg file)
 - PDF Report – Executive summary with insights and visualizations  
 - Power BI dashboard file  
 - Raw dataset  
