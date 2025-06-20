@@ -38,7 +38,7 @@ This project aims to predict employee performance ratings for INX Future Inc. us
 
 - **Hourly Rate & Training Frequency:** No strong impact on performance.  
 - **Years of Total Experience:** Slight negative correlation with performance.  
-- **Salary Hike Percent:** Unexpectedly, higher hikes were associated with lower performance—suggesting other dynamics may be in play.  
+- **Salary Hike Percent:** Unexpectedly, higher hikes were associated with lower performance, suggesting other dynamics may be in play.  
 - **Tenure in Same Role/Company:** Longer tenure negatively correlated with performance, possibly due to stagnation.  
 
 ---
@@ -82,7 +82,7 @@ pip install notebook
 
 ## How to Run
 
-To launch the Streamlit app (if included):
+To launch the Streamlit app:
 
 ```bash
 streamlit run model_script.py
