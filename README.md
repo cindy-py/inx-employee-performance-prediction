@@ -56,11 +56,11 @@ This project aims to predict employee performance ratings for INX Future Inc. us
 
 ## Files Included
 
-- `employee_performance.ipynb` – Full analysis and model pipeline  
-- `model_script.py` – Python script version (optional)  
-- `report.pdf` – Executive summary with insights and visualizations  
-- `dashboard.pbix` – Power BI dashboard file  
-- `employee_data.csv` – Raw dataset  
+- Full analysis and model pipeline (.ipynb file)
+- Python script version (.py file)  
+- PDF Report – Executive summary with insights and visualizations  
+- Power BI dashboard file  
+- Raw dataset  
 
 ---
 
